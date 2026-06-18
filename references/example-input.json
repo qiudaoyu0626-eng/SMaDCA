@@ -1,0 +1,15 @@
+{
+  "monthly_income": 9000,
+  "essential_expenses": 4000,
+  "flexible_budget": 1000,
+  "debt_payments": 0,
+  "emergency_fund": 10000,
+  "emergency_months_target": 6,
+  "holdings": [
+    {"name": "Nasdaq 100", "category": "US technology equity", "value": 5462.75, "target_pct": 30},
+    {"name": "CSI 300", "category": "China large-cap equity", "value": 569.39, "target_pct": 30},
+    {"name": "Global equity", "category": "global equity", "value": 1292.65, "target_pct": 30},
+    {"name": "Gold", "category": "gold", "value": 536.52, "target_pct": 10}
+  ]
+}
+
